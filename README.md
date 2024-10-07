@@ -13,7 +13,7 @@ Hello! I'm **Ahsan Sagheer**, and I'm on a dedicated journey to become a cyberse
 - **Cloud Security Focus**: With a keen interest in Microsoft Azure, I’m focused on mastering cloud security frameworks and tools.
 
 ## Projects You’ll Find Here:
-- **Offensive Security Lab Setup**: Documentation and progress of building a home lab for penetration testing and security assessments.
-- **Cloud Security Projects**: Securing cloud-based infrastructures, with a focus on Azure security practices and compliance.
+- **Cloud Security Projects**: Securing cloud-based infrastructures, with a focus on Azure security practices and compliance. Check out my project here: [Cloud SOC GitHub Repository](https://github.com/Ahsan-Sagheer/Cloud-SOC).
+
 
 I'm excited to continue learning, exploring new technologies, and contributing to the cybersecurity community. If you're interested in collaborating, sharing knowledge, or simply discussing the latest in the cyber world, feel free to connect!
