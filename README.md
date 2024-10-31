@@ -14,7 +14,7 @@ Hello! I'm **Ahsan Sagheer**, and I'm on a dedicated journey to become a cyberse
 
 ## Projects You’ll Find Here:
 - **Cloud Security Projects**: Securing cloud-based infrastructures, with a focus on Azure security practices and compliance. Check out my project here: [Cloud SOC GitHub Repository](https://github.com/Ahsan-Sagheer/Cloud-SOC).
-UserFinder is an open-source intelligence (OSINT) tool that helps locate user profiles across various social media platforms.
+- **UserFinder is an open-source intelligence (OSINT) tool that helps locate user profiles across various social media platforms.
 Check out my project here: [User Finder GitHub Repository](https://github.com/Ahsan-Sagheer/UserFinder).
 
 I'm excited to continue learning, exploring new technologies, and contributing to the cybersecurity community. If you're interested in collaborating, sharing knowledge, or simply discussing the latest in the cyber world, feel free to connect!
