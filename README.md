@@ -14,7 +14,7 @@ Hello! I'm **Ahsan Sagheer**, and I'm on a dedicated journey to become a cyberse
 
 ## Projects You’ll Find Here:
 - **Cloud Security Projects**: Securing cloud-based infrastructures, with a focus on Azure security practices and compliance. Check out my project here: [Cloud SOC GitHub Repository](https://github.com/Ahsan-Sagheer/Cloud-SOC).
-- **Identity and Access Management Automation**: Automating user onboarding with Microsoft Forms, Power Automate, and Azure AD. Check out this project here: [AM Automation GitHub Repository.](https://github.com/Ahsan-Sagheer/IAM-project-Using-MS-Forms-Automate-and-Azure)
+- **Identity and Access Management Automation**: Automating user onboarding with Microsoft Forms, Power Automate, and Azure AD. Check out this project here: [IAM Automation GitHub Repository.](https://github.com/Ahsan-Sagheer/IAM-project-Using-MS-Forms-Automate-and-Azure)
 - **UserFinder** Is an open-source intelligence (OSINT) tool that helps locate user profiles across various social media platforms.
 Check out my project here: [User Finder GitHub Repository](https://github.com/Ahsan-Sagheer/UserFinder).
 
