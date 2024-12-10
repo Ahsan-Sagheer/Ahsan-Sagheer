@@ -9,18 +9,18 @@ Hello! I'm **Ahsan Sagheer**, and I'm on a dedicated journey to become a cyberse
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**: Certified in foundational cloud concepts and Microsoft Azure services.
 - **TryHackMe Security Engineer Path**: Completed a variety of practical, offensive security challenges that sharpened my skills in penetration testing, system hardening, and ethical hacking techniques.
 
-## What I Bring to the Table:
+What I Bring to the Table:
 - **Cloud Security Focus**: With a strong foundation in IT and cybersecurity, I bring:
 
--Expertise in automating workflows to enhance efficiency.
+##Expertise in automating workflows to enhance efficiency.
 
--Hands-on experience with cloud platforms, including Azure.
+##Hands-on experience with cloud platforms, including Azure.
 
--A deep understanding of identity and access management (IAM).
+##A deep understanding of identity and access management (IAM).
 
--Practical skills in implementing secure and scalable solutions.
+##Practical skills in implementing secure and scalable solutions.
 
--My focus is on delivering impactful, real-world solutions tailored to organizational needs.
+##My focus is on delivering impactful, real-world solutions tailored to organizational needs.
 
 ## Projects You’ll Find Here:
 - **Cloud Security Projects**: Securing cloud-based infrastructures, with a focus on Azure security practices and compliance. Check out my project here: [Cloud SOC GitHub Repository](https://github.com/Ahsan-Sagheer/Cloud-SOC).
